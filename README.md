@@ -6,7 +6,7 @@ Dota Phone Book is a command-line interface tool that allows users to query and 
 
 ## Features
 
-- Query hero abilities by name
+- Query heroes by name
 - Display primary attribute type, attack type and abilities of a specific hero
 
 ## Usage
